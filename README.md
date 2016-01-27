@@ -33,4 +33,4 @@ The original data set came from Samsung, and was manipulated as part of the cour
 This directory contains a few files:
 tidy_data.txt - this data file contains the averages of all mean and standard deviations, grouped by subject & activity
 run_analysis.R - this file is the R script used to manipulate Samsung's data
-data_dictionary.txt - contains descriptions of the data in the tidy_data.txt file
+code_book.md - contains descriptions of the data in the tidy_data.txt file
