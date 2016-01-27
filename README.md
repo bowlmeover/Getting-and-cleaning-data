@@ -36,6 +36,7 @@ Good luck!
 ============================================================================
 
 This directory contains a few files:
-tidy_data.txt - this data file contains the averages of all mean and standard deviations, grouped by subject & activity
-run_analysis.R - this file is the R script used to manipulate Samsung's data
-code_book.md - contains descriptions of the data in the tidy_data.txt file
+1. Readme.md  - this file
+2. tidy_data.txt - this data file contains the averages of all mean and standard deviations, grouped by subject & activity
+3. run_analysis.R - this file is the R script used to manipulate Samsung's data
+4. code_book.md - contains descriptions of the data in the tidy_data.txt file
